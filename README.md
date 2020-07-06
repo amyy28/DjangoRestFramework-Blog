@@ -64,7 +64,7 @@ Vary: Accept
 ```
 
 #### PUT Request
-PUT /sports/<id>
+PUT /sports/< id >
 ```
   {
     "name": "Rohit Sharma",
