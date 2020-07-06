@@ -1,6 +1,6 @@
 ### This repository contains the source code for my medium blog titled : 'Creating RESTful API's in Django Rest Framework using Class-Based Views'
 
-You can find the blog here : 
+You can find the blog here : https://medium.com/@bhatnagar.aman1998/creating-restful-apis-in-django-rest-framework-using-class-based-views-78202e129773
 
 #### Landing page
 ```
